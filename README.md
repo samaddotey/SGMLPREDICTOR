@@ -36,7 +36,7 @@ Pre-processed company dataset from Kaggle <br />
 Put the data through transformer (Numerical Encoder) <br />
 Split data up into training and test (70:30) <br />
 Trained ML model (Logistic Regression)<br />
-Saved model (Pickle)/
+Saved model (Pickle)
 
 #### Run Application Instructions
 To run webserver to launch application:
