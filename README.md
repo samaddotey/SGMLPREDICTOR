@@ -31,8 +31,8 @@ $ pip install aikit
 
 ### Development
 Pre-processed company dataset from Kaggle
-\n\nPut the data through transformer (Numerical Encoder)
-\n\nSplit data up into training and test (70:30)
+"\n"Put the data through transformer (Numerical Encoder)
+"\n"Split data up into training and test (70:30)
 Trained ML model (Logistic Regression)
 Saved model (Pickle)
 
