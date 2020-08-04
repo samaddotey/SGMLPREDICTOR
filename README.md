@@ -30,11 +30,11 @@ $ pip install aikit
 
 
 ### Development
-Pre-processed company dataset from Kaggle
-"\n"Put the data through transformer (Numerical Encoder)
-"\n"Split data up into training and test (70:30)
-Trained ML model (Logistic Regression)
-Saved model (Pickle)
+Pre-processed company dataset from Kaggle/
+Put the data through transformer (Numerical Encoder)/
+"\n"Split data up into training and test (70:30)/
+Trained ML model (Logistic Regression)/
+Saved model (Pickle)/
 
 #### Run Application Instructions
 To run webserver to launch application:
