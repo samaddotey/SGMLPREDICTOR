@@ -1,5 +1,8 @@
 # sg-predict
 
+### Demo video link
+https://www.youtube.com/watch?v=MMF5dYRVdCQ
+
 ### Tech
 
 sg-predict is an ML application that suggests SG Market products based on Industry and Key Process input
@@ -28,8 +31,8 @@ $ pip install aikit
 
 ### Development
 Pre-processed company dataset from Kaggle
-Put the data through transformer (Numerical Encoder)
-Split data up into training and test (70:30)
+\n\nPut the data through transformer (Numerical Encoder)
+\n\nSplit data up into training and test (70:30)
 Trained ML model (Logistic Regression)
 Saved model (Pickle)
 
