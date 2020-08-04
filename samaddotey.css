@@ -1,0 +1,569 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,300;0,600;1,900&display=swap');
+    
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;900&display=swap');
+
+
+   
+
+.navlinks li {
+    
+font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+/*
+    padding-left: 8px;
+    padding-right: 8px;
+*/
+    display: inline
+}
+
+
+header{
+    display:flex;
+    justify-content:center;
+    padding:10px;
+}
+
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 3em
+
+}
+
+
+body {
+    width: 100%;
+    height: 100%;
+    text-align:center;
+  
+    
+    margin: 0; 
+    padding-top:10%;
+    padding-left:20%;
+    padding-right:20%;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+    scroll-behavior: smooth;
+}
+
+ .cvimg {
+     justify-content: center;
+     width:100%;
+     height:auto
+
+}
+
+.skills {
+    width:100%;
+    font-family: 'Lato', sans-serif;
+    padding-top: 90px;
+    flex-direction: column;
+    font-size:2em;
+    margin-right: 5%
+        
+}
+
+/*
+.skills p {
+    
+    padding:0;
+    margin-bottom:0;
+    margin-top:0;
+    margin-left:10px
+}
+*/
+
+.p {
+    
+    padding:0;
+    padding-bottom:0;
+    padding-top:0;
+    padding-left:10px;
+    padding-right:10px;
+    background-color: black;
+    color:white;
+    
+}
+
+.codebracket {
+     width: 400px;
+    height: 400px;
+}
+
+
+.pjts {
+     width: 300px;
+    height: 300px;
+}
+
+.projects {
+    display: flex;
+    padding: 35PX
+}
+
+.pjsect {
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    color:white;
+    
+}
+   
+.pjsect p {
+    color:white;
+    font-family: 'Lato', sans-serif;
+}
+
+.skillsbody {
+    display:flex;
+    flex-direction: row;
+    justify-content:;
+    background-color: white
+}
+
+#header{
+    background-color: black;
+}
+#projects {
+    
+    background-color: black;
+    color:white;
+    padding-top: 10px
+    
+}
+
+.ecv {
+
+    justify-content: center;
+    padding-top: 10px
+    
+    
+}
+
+.contact {
+
+    font-size: 1.5em
+}
+
+.cv {
+
+    justify-content: center;
+    width:100%;
+    height: auto;
+}
+
+
+.headerimg {
+    outline-color: black;
+    width: 100%;
+    height: auto;
+    object-fit: fill
+
+}
+
+.bio {
+    font-family: 'Lato', sans-serif;
+    background-color:black;
+    color: white;
+    font-size: 1.5em;
+    padding: 10px
+        
+    
+}
+
+
+
+#blog {
+    color: white;
+    background-color: black;
+    padding-bottom: 10px
+}
+
+.square {
+    outline-color: black;
+    width: auto;
+    height:100px;
+    background-color: black;
+    padding: 0;
+    margin: 0
+}
+
+.navlinks li {
+    font-size: 1.5em
+}
+
+.image {
+    margin-left:15%;
+    padding-right:10%;
+    padding-bottom:90px
+}
+
+.projects p {
+    font-size:1.5em
+}
+
+.blog {
+    display:flex;
+    flex-direction: column;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 80px;
+
+}
+
+.blog button {
+    background-color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 0.7em;
+    width:100%
+    
+}
+
+.blog p {
+    font-size:2em;
+}
+
+.b {
+    padding:0;
+    height: auto
+}
+
+}
+
+.socials {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.soc {     
+    width: 50px;
+    height: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top:10px;
+    padding-bottom:10px
+    
+}
+
+.ssect {
+       display: inline;
+
+}
+
+.navlinks button{
+    
+    font-size: 1em;
+    height:70px;
+    width:auto;
+    margin-right:10px;
+    margin-left: 10px;
+    border: none;
+    background-color:white
+}
+    
+.navlinks button :hover {
+    
+    font-size: 1.1em;
+    height:70px;
+    width:auto;
+    margin: 0pcx;
+    border: none;
+    color: yellow;
+    background-color: orange;
+    
+}
+
+
+.navlinks {
+    padding:0;
+    margin:0;
+    
+}
+
+.skillsbar1 {outline-style: solid;
+        width: 100%;
+        display:flex;
+        justify-content: flex-start;
+        margin-bottom:15px;
+        flex-direction: row
+}
+
+
+.skillsbar {outline-style: solid;
+    width: 100%;
+    margin-top:15px;
+    margin-bottom:15px
+}
+    
+
+
+
+.skill-level {
+    outline-style: solid;
+    display: inline-flex;
+    width: 55%;
+    background-color:black
+    
+}
+
+
+
+.skill-level2 {
+        outline-style: solid;
+        display: inline-flex;
+        width: 45%;
+        background-color:black
+}
+
+.skill-level3 {
+        outline-style: solid;
+        display: inline-flex;
+        width: 70%;
+        background-color:black
+    }
+
+.skill-level4 {
+        outline-style: solid;
+        display: inline-flex;
+        width: 69%;
+        background-color:black
+}
+
+.b  {
+    transition-duration: 0.4s;
+    border-color: black
+   
+    
+    
+}
+
+.b:hover{
+    background-color: #868686; /* Green */
+    color: white;
+    border-color: black;
+    box-shadow: 0 0px 2px 0 rgba(0,0,0,0.24),0 0px 2px 0 rgba(0,0,0,0.19);
+
+}
+
+.bt {
+  transition-duration: 0.4s;
+    padding-left:10px;
+    padding-right: 10px;
+    
+}
+
+.bt:hover {
+        background-color: #868686; /* Green */
+        color: white;
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: none;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+.socials button {
+    border:none;
+    background-color:white;
+}
+
+.jsdiv {
+    position:absolute;
+    top: 35%;
+    right:10%;
+    width: 900px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-family: "Source Code Pro", monospace;
+    font-size: 4.5em;
+}
+
+.stronger {
+    font-family: 'Source Code Pro', monospace !important;
+    font-weight: 600 !important
+}
+
+
+@media only screen and (min-device-width : 200px) and (max-device-width : 768px) {
+    
+    
+    
+    h2{
+        font-size: 3.5rem;
+    }
+    
+    .projects p{
+    font-size: 2.5rem;
+}
+    .blog p{
+    font-size: 2rem;
+    }
+    
+    
+    .jsdiv {
+    position:absolute;
+    align-content: center;
+    top: 45%;
+    right:0;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-family: "Source Code Pro", monospace;
+    font-size: 5em;
+}
+    
+    .headerimg {
+    display: none;
+}
+        
+    .bio {
+    
+    font-family: 'Lato', sans-serif;
+    background-color:black;
+    color: white;
+    font-size: 2em;
+    padding: 10px
+        
+}
+    
+    .skillsbody {
+    display:flex;
+    flex-direction: column;
+    padding: 5%;
+    justify-content:;
+    background-color: white;
+    
+}
+    .image {
+/*
+    margin-left:5%;
+    margin-right:5%%;
+*/
+    padding-bottom:90px
+}
+    .skillsbar1 {outline-style: solid;
+    width: 100%;
+/*    height: 30%;*/
+    display:flex;
+    justify-content: flex-start;
+    margin-bottom:15px;
+    flex-direction: row
+}
+    
+    .p {
+    
+    padding:0;
+    padding-bottom:0;
+    padding-top:0;
+    padding-left:10px;
+    padding-right:10px;
+    background-color: black;
+    color:white;
+    font-size: 1.5em;
+}
+    
+    .projects {
+    height: auto;
+    flex-direction: column;
+    padding: 35px
+}
+    
+    .pjts {
+     width: 400px;
+    height: 400px;
+}
+    
+    .pjsect {
+    width: 100%;
+    flex-direction: column;
+    margin-bottom: 10%;
+    color:white;
+    
+}
+    
+    .cvimg {
+    justify-content: center;
+    width: 100%;
+    height:auto;
+    padding-bottom:5%
+}
+    
+    .square {
+    outline-color: black;
+    width: auto;
+    height:100%;
+    background-color: black;
+    padding: 0;
+    margin: 0
+}
+    
+    .blog {
+    display:flex;
+    flex-direction: column;
+    padding-right:10%;
+    padding-left:10%;
+    padding-bottom: 80px;
+    width:80%;
+    height:auto;
+
+}
+    .b {
+    padding-right:5%;
+    padding-left:5%;
+
+    
+}
+    .navlinks {
+    
+    
+}
+
+
+
+.burger-check {
+    display: none;
+}
+
+.bgg {
+align-content: ;
+
+}
+
+
+
+.form {
+    margin:10%;
+}
