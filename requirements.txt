@@ -1,6 +1,6 @@
 aikit==0.2.1
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-Ext==0.1
 numpy==1.17.2
 numpydoc==0.9.1
